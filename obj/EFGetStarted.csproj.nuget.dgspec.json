@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/Act2DACS/EFGetStarted/EFGetStarted.csproj": {}
+    "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/EF/EFGetStarted.csproj": {}
   },
   "projects": {
-    "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/Act2DACS/EFGetStarted/EFGetStarted.csproj": {
+    "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/EF/EFGetStarted.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/Act2DACS/EFGetStarted/EFGetStarted.csproj",
+        "projectUniqueName": "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/EF/EFGetStarted.csproj",
         "projectName": "EFGetStarted",
-        "projectPath": "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/Act2DACS/EFGetStarted/EFGetStarted.csproj",
+        "projectPath": "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/EF/EFGetStarted.csproj",
         "packagesPath": "/home/martinejaw/.nuget/packages/",
-        "outputPath": "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/Act2DACS/EFGetStarted/obj/",
+        "outputPath": "/home/martinejaw/Documentos/CLIENTE-SERVIDOR/BBDD/EF/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/martinejaw/.nuget/NuGet/NuGet.Config"

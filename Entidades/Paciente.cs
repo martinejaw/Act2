@@ -12,12 +12,12 @@ namespace EFGetStarted.Entidades
         
         [Required]
         public string nombre { get; set; }
+        [Required]
         public string apellido { get; set; }
         public DateTime fechaNac { get; set; }
 
 
         public List<Consulta> consultas { get; } = new List<Consulta>();
-        public Caso caso { get; set; }
     }
 }
         
